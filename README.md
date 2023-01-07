@@ -14,7 +14,7 @@ The contents of this repository are licensed for reuse under a [Creative Commons
 
 | Meeting Date | Topic | Learning objective | Technical skills |
 | --- | --- | --- | --- |
-| Week 1 : Jan 23 | What is your birthquake? | Be introduced to using and accessing data within the Jupyter notebook environment. | *Accessing data through an API* Use Python code within a Jupyter notebook to access an online API to pull in and inspect tabular data using `pandas`. |
+| Week 1 : Jan 23 | What is your birthquake? | Be introduced to using the Jupyter notebook environment and using it to access and inspect data. | *Defining variables and accessing data through an API.* Use Python code within a Jupyter notebook to access an online API to pull in and inspect tabular data using `pandas`. |
 | Week 1 assignment | Maps | Develop an understanding of map projections and visualizations of geospatial data. | *Map generation.* Learn to generate maps using `cartopy` using different projections and to plot locations. |
 | Week 2 : Jan 30 | Earth's continents and oceans | Compare the distribution of Earth's topography (hypsometry) to a normal distribution. Explain the distribution in terms of continental crust vs. oceanic crust density. | *Simple statistics and data visualization.* Use `numpy` to load data and do simple statistical calculations such as `np.mean`. Use `matplotlib` and `cartopy` to make plots and data visualizations |
 | Week 2 assignment | Seafloor age and plate tectonics | Use global seafloor age distribution to make inferences about plate tectonic processes. | *Data wrangling and visualization.* Get further introduced to the `pandas` library. Use the same `matplotlib` and `cartopy` functions as in-class during Week 1. |
