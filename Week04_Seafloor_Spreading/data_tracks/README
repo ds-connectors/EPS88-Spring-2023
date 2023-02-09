@@ -1,0 +1,10 @@
+Marine geophysics data tracks.
+
+Projected lines were projected to distance from ridge with gmt function `project`
+vanc05mv -C-10.08/-48.01 -A67
+nbp97-4a -C-110.81/-37.56 -A95
+nbp9707 -C-113.52/-49.06 -A105
+
+vanc05mv: atlantic midocean ridge
+nbp97-4a: chile rise
+nbp9707: east pacific rise
