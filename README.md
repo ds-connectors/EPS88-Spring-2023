@@ -25,12 +25,12 @@ The contents of this repository are licensed for reuse under a [Creative Commons
 | Week 5 : Feb 20 |	No class (President's Day)	| 	 
 | Week 6 : Feb 27	| Probabilities applied to Earth and planetary processes | Discuss different statistical distributions and the concepts of theoretical versus empirical distributions. Consider probability distributions applied to meteor showers and earthquake occurence and the geomagnetic field .  | *Monte Carlo simulation* Use the module `numpy.random` to generate examples of simulated data sets.
 | Week 6 assignment	| Earth's reversing magnetic field | Earth's geomagnetic polarity timescale. Consider the time series of geomagnetic reversals and how reversal frequency could be represented with probability distributions. | Implement additional probability distributions using `scipy` including the gamma distribution |
-| Week 7 : March 6	| Ice sheets |	Deal with directional data https://catalogue.data.gov.bc.ca/dataset/ice-flow-indicator-compilation |	Utilize bootstrap resampling to evaluate different directional populations |
-| Week 7 assignment	|
-| Week 8 : March 13	| The age of the universe and the age of the Earth |	 *Regression* 
-| Week 8 assignment | Atmospheric CO<sub>2</sub> | Use the Mauna Loa Observatory atmospheric carbon dioxide concentration data set to quantify the rate of CO<sub>2</sub> rise over the past 60 years. |
-| Week 9 : March 20	| Ice core CO<sub>2</sub> | 	
-| Week 9 assignment | Ice core CO<sub>2</sub> | LOWESS |	
+| Week 7 : March 6	| Ice sheets |	Use directional data to make inferences about flow directions of the Cordillera ice sheet | *Bootstrap resampling* Utilize bootstrap resampling as a means make inferences about data. |
+| Week 7 assignment	| Bay Area wind | Gain insight into Bay Area climatology as a function of season through analysis of hourly wind data at SFO | *Apply the bootstrap percentile method* Utilize bootstrap resampling to develop estimates of the 95% confidence interval associated with statistical summary parameters. |
+| Week 8 : March 13	| The age of the universe and the age of the Earth | Use the retreat velocity of galaxies and supernova as a function of their distance to gain insight into the Hubble constant and the age of the universe | *Regression* Determining regression lines through least squares to gain insight into data and enable prediction   
+| Week 8 assignment | Atmospheric CO<sub>2</sub> | Use the Mauna Loa Observatory atmospheric carbon dioxide concentration data set to quantify the rate of CO<sub>2</sub> rise over the past 60 years. Compare trends inferred from regression to RCP emission scenarios | *Regression* Assess residuals in order to evaluate regressions. Use regression models for prediction.  
+| Week 9 : March 20	| Ice core paleoclimate archives | Determining rate of change of atmospheric CO<sub>2</sub> levels from merged ice core data sets | 	*Data wrangling* Gain experience wrangling data from different formats for analysis. Get set-up with a local Python installation.
+| Week 9 assignment | Ice core CO<sub>2</sub> | Compare rates of change in the ice core and Mauna Loa CO<sub>2</sub> datasets |	*LOWESS* Apply locally weighted scatterplot smoothing using the `scipy` `statsmodels` in order to develop non-parametric fits to data. Use these fits to gain insight into rates of change.
 | March 27 | No class — Spring Break	 	
 | Week 10 : April 3	| Glacial-interglacial cycles | Investigate time series data to gain insight into the drivers of glacial-interglacial cycles | *Conduct spectral analysis* Use tools within the `scipy` package in order to calculate power spectral density from time series data |
 | Week 10 assignment	| Paleoclimate proxies and the mid-Pleistocene transition |
