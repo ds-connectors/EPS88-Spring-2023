@@ -33,9 +33,9 @@ The contents of this repository are licensed for reuse under a [Creative Commons
 | Week 9 assignment | Ice core CO<sub>2</sub> | Compare rates of change in the ice core and Mauna Loa CO<sub>2</sub> datasets |	*LOWESS* Apply locally weighted scatterplot smoothing using the `scipy` `statsmodels` in order to develop non-parametric fits to data. Use these fits to gain insight into rates of change.
 | March 27 | No class — Spring Break	 	
 | Week 10 : April 3	| Glacial-interglacial cycles | Investigate time series data to gain insight into the drivers of glacial-interglacial cycles | *Conduct spectral analysis* Use tools within the `scipy` package in order to calculate power spectral density from time series data |
-| Week 10 assignment	| Paleoclimate proxies and the mid-Pleistocene transition |
-| Week 11 : April 10	| Lava flow geochemistry |
-| Week 11 assignment	| 
+| Week 10 assignment	| Paleoclimate proxies and the mid-Pleistocene transition | Evaluate when there were changes in the period of glacial-interglacial cycles | Continuing conducting spectral analysis to assess the dominant frequencies within data sets |
+| Week 11 : April 10	| Lava flow geochemistry | Explore compositional differences between mafic, intermediate, and felsic volcanics rocks | *Visualizing distributions of data and comparing populations* Apply different techniques to visualize and analyze distributions of data applying tools from the `seaborn` library including kernel density estimates.
+| Week 11 assignment	| Cobalt resources | Evaluate what lithologies have the highest concentrations of cobalt to gain insight as pertains to mineral exploration | *A/B testing* Gain further experience visualizing distributions of data and conducting A/B testing to evaluate the significance of compositional differences |
 | Week 12 : April 17	| Tectonic setting of volcanos | Machine learning of volcanic setting
 | Week 12 assignment	|
 | Week 13 : April 24	| Geodetic data | Review concepts while analyzing a GPS data set |
