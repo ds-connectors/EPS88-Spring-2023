@@ -36,8 +36,8 @@ The contents of this repository are licensed for reuse under a [Creative Commons
 | Week 10 assignment	| Paleoclimate proxies and the mid-Pleistocene transition | Evaluate when there were changes in the period of glacial-interglacial cycles | Continuing conducting spectral analysis to assess the dominant frequencies within data sets |
 | Week 11 : April 10	| Lava flow geochemistry | Explore compositional differences between mafic, intermediate, and felsic volcanics rocks | *Visualizing distributions of data and comparing populations* Apply different techniques to visualize and analyze distributions of data applying tools from the `seaborn` library including kernel density estimates.
 | Week 11 assignment	| Cobalt resources | Evaluate what lithologies have the highest concentrations of cobalt to gain insight as pertains to mineral exploration | *A/B testing* Gain further experience visualizing distributions of data and conducting A/B testing to evaluate the significance of compositional differences |
-| Week 12 : April 17	| Tectonic setting of volcanos | Machine learning of volcanic setting
-| Week 12 assignment	|
+| Week 12 : April 17	| Tectonic setting of volcanos | Assess differences in the geochemistry of basalts based on the tectonic setting in which they formed. Evaluate whether these data give the ability to confidently differentiate between settings | *Classification algorithms* Use `scikit-learn` library to apply SVC and Decision Tree supervised machine learning algorithms to categorized igneous geochemistry datasets
+| Week 12 assignment | Tectonic setting of volcanos continued | Utilize more recent data rich compilations to further evaluate discrimination between tectonic setting on the basis of basalt geochemistry | Gain further experience using `scikit-learn` to split data into training and test sets in order to train and evaluate classifiers |
 | Week 13 : April 24	| Geodetic data | Review concepts while analyzing a GPS data set |
 | Week 13 assignment	| Final project plan |
 | Finals week	| Presentations on final projects during exam period |
